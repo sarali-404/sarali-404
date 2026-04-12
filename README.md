@@ -4,14 +4,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Sarali Balasinghe</h1>
-<h3 align="center">Passionate IT Student</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarali-404&label=Profile%20views&color=0e75b6&style=flat" alt="sarali-404" />
 </p>
 <table align="center">
   <tr border="none">
     <td width="50%" align="left">
-      🧑‍🎓 I’m a Software Engineering student at NSBM Green University
+      🧑‍🎓 I’m a final year Software Engineering student at NSBM Green University
       <br />
       💬 Ask me about PHP and MongoDB
       <br />
@@ -22,22 +22,12 @@
 
   </tr>
 </table>
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarali-404&theme=dark&show_icons=true&count_private=true" />
-        <br /><br />
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarali-404&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/sarali-balasinghe-951696375/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="Sarali Balasinghe" height="50" width="50" />
+  </a>
   <a href="https://www.instagram.com/jzt_zaara/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="@jzt_zaara" height="50" width="50" />
   </a>
@@ -45,6 +35,7 @@
     <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" title="saralibalasinghe@gmail.com" height="50" width="50" />
   </a>
 </p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
